@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at AWS.
+- 🔭 I’m currently working at Amazon.
 - 🌱 I’m currently learning anything that interests me.
 - 👯 I’m looking to collaborate on exciting Java projects.
 - 🤔 I’m looking for help with N/A
