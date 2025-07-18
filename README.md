@@ -7,5 +7,5 @@
 - 💬 Ask me about Java, AWS, Cycling, Gym.
 - 📫 How to reach me: umamaheswararaotumma@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am too soft you can make me cry in minutes then I use that anger to do something that helps me grow 😉.
+- ⚡ Fun fact: I don't sleep sometimes while building something, I can't work properly next day and it take 3 days to recover 🫩
 
